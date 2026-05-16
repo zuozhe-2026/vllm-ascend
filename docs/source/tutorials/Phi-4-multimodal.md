@@ -213,6 +213,5 @@ for the Phi-4-multimodal model on the Ascend platform, covering all key
 steps from environment preparation to performance evaluation. By
 following the guidance in this document, developers can efficiently
 deploy and optimize multimodal model inference services.
-(AI 生成)
 
 
