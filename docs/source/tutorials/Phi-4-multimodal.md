@@ -138,9 +138,7 @@ curl --location "localhost:8000/v1/chat/completions" \
 After the server starts, you can query the model with image-containing
 prompts.
 ## **7. Performance Evaluation**
-### **7.1 Using AISBench**
-
-Refer to the 
+Using AISBench Refer to the 
 
 [AISBench]: https://gitee.com/aisbench/benchmark/tree/master
 
